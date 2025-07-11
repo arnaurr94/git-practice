@@ -1,0 +1,3 @@
+Name: Arnau
+Age: 30
+Favorite Color: Red
